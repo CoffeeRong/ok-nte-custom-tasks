@@ -1,6 +1,6 @@
 # ok-nte-custom-tasks
 
-[ok-nte](https://ok-script.com/ok-nte) 单文件自包含自定义任务合集。每个任务是一个 `.py` 文件,所需模板图以 base64 内嵌、运行时按捕获分辨率自动缩放匹配——无需额外部署 `assets/` 模板或 `LabelEnum.py`。
+[ok-nte](https://ok-script.com/ok-nte) 自定义任务。每个任务是一个 `.py` 文件,所需模板图以 base64 内嵌、运行时按捕获分辨率自动缩放匹配——无需额外部署 `assets/` 模板或 `LabelEnum.py`。
 
 ## 任务列表
 
